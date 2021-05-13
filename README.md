@@ -1,7 +1,7 @@
-### Hi there 👋 I'm [Joan Rojas Mejia](https://joan-rojas-mejia.netlify.app/)
+### Hi there <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="25px"> I'm [Joan Rojas Mejia](https://joan-rojas-mejia.netlify.app/)
 > <p><em>Frontend Developer.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="230">
 
 <div>
  <p>
@@ -11,27 +11,40 @@ I have excellent design & coding skills, as well as an ability to convert requir
 </p>
 </div>
 
-### Programming Languages 🌐
+### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="22px">   Programming Languages
 
-| [<img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" alt="html" width="24">](https://laravel.com/) | [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/76_Css3_logo_logos-512.png" alt="CSS" width="26">](https://developer.mozilla.org/es/docs/Web/CSS)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24">](https://lenguajejs.com/javascript/)  |  [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="24">](https://es.wikipedia.org/wiki/C%2B%2B) | [<img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="26">](https://www.python.org/) | [<img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" width="24">](https://www.java.com/es/)
+| [<img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" alt="html" width="24">](https://laravel.com/) | [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/76_Css3_logo_logos-512.png" alt="CSS" width="26">](https://developer.mozilla.org/es/docs/Web/CSS)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24">](https://lenguajejs.com/javascript/)  |  [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="26">](https://es.wikipedia.org/wiki/C%2B%2B) | [<img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="26">](https://www.python.org/) | [<img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" width="24">](https://www.java.com/es/)
 |---|---|---|---|---|---|
 
-### Tools 🛠️
+### <img src="https://i.pinimg.com/originals/9a/d5/d5/9ad5d5d9288ec5f54e5678377dbdd38e.gif" height="35px"> Tools
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="28">](https://www.jetbrains.com/phpstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="24">](https://code.visualstudio.com/) |
-|---|---|---|
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="30">](https://git-scm.com/) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="28">](https://www.jetbrains.com/phpstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="Replit" width="32">](https://replit.com) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="30">](https://replit.com)
+|---|---|---|---|---|
 
+<img align='right' src="https://monophy.com/media/lnaoFgGrDHnivdu5Bc/monophy.gif" width="230">
 
+### Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  <br>
+  <a href="https://www.linkedin.com/in/joan-rojas-b872a0188/">
+    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.facebook.com/joansebastian.rojasmejia">
+    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/joan_rojas_16/">
+    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:sebas.rojas.mejia@gmail.com">
+    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
 
+<br>
 
+#### Thanks for visiting <img src="https://media.giphy.com/media/xT0GqkVV1VtG7tqS08/giphy.gif" height="20px">
+![VisitorCount](https://profile-counter.glitch.me/JoanRojasMejia/count.svg)
 
-<img align='right' src="https://media.giphy.com/media/YPUh8SkoYuurwwV4bz/giphy.gif" width="230">
-
+⭐️ From [Joan Rojas Mejia](https://github.com/JoanRojasMejia)
 <!---
 JoanRojasMejia/JoanRojasMejia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
