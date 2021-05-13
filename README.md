@@ -4,12 +4,14 @@
 <img align='right' src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="230">
 
 <div>
- <p>
+  <p>
 I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
-</p>
+  </p>
 </div>
+
+<br>
 
 ### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="22px">   Programming Languages
 
