@@ -13,8 +13,14 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Programming Languages 🌐
 
-| [<img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" alt="Laravel" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24">](https://lenguajejs.com/javascript/)  |  [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="24">](https://es.wikipedia.org/wiki/C%2B%2B) | [<img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="24">](https://www.python.org/) | [<img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" width="24">](https://www.java.com/es/)
+| [<img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" alt="html" width="24">](https://laravel.com/) | [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/76_Css3_logo_logos-512.png" alt="CSS" width="26">](https://developer.mozilla.org/es/docs/Web/CSS)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24">](https://lenguajejs.com/javascript/)  |  [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="24">](https://es.wikipedia.org/wiki/C%2B%2B) | [<img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="26">](https://www.python.org/) | [<img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" width="24">](https://www.java.com/es/)
 |---|---|---|---|---|---|
+
+### Tools 🛠️
+
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="28">](https://www.jetbrains.com/phpstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="24">](https://code.visualstudio.com/) |
+|---|---|---|
+
 
 
 - 👀 I’m interested in ...
