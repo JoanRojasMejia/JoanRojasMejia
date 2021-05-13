@@ -38,7 +38,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
   <a href="mailto:sebas.rojas.mejia@gmail.com">
     <img align="left" alt="Joan Rojas | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
-<br>
+<br><br>
 
 ### Thanks for visiting <img src="https://media.giphy.com/media/xT0GqkVV1VtG7tqS08/giphy.gif" height="15px">
 ![VisitorCount](https://profile-counter.glitch.me/JoanRojasMejia/count.svg)
