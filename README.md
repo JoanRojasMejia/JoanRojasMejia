@@ -21,7 +21,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="30">](https://git-scm.com/) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="28">](https://www.jetbrains.com/phpstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="Replit" width="32">](https://replit.com) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="30">](https://replit.com)
 |---|---|---|---|---|
 
-<img align='right' src="https://monophy.com/media/lnaoFgGrDHnivdu5Bc/monophy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" width="400">
 
 ### Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
@@ -38,10 +38,9 @@ I have excellent design & coding skills, as well as an ability to convert requir
   <a href="mailto:sebas.rojas.mejia@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
-
 <br>
 
-#### Thanks for visiting <img src="https://media.giphy.com/media/xT0GqkVV1VtG7tqS08/giphy.gif" height="20px">
+#### Thanks for visiting <img src="https://media.giphy.com/media/xT0GqkVV1VtG7tqS08/giphy.gif" height="15px">
 ![VisitorCount](https://profile-counter.glitch.me/JoanRojasMejia/count.svg)
 
 ⭐️ From [Joan Rojas Mejia](https://github.com/JoanRojasMejia)
