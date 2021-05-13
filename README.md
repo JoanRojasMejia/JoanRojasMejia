@@ -27,20 +27,20 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
   <br>
   <a href="https://www.linkedin.com/in/joan-rojas-b872a0188/">
-    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Joan Rojas | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.facebook.com/joansebastian.rojasmejia">
-    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
+    <img align="left" alt="Joan Rojas | Twitter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/joan_rojas_16/">
-    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Joan Rojas | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:sebas.rojas.mejia@gmail.com">
-    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Joan Rojas | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 <br>
 
-#### Thanks for visiting <img src="https://media.giphy.com/media/xT0GqkVV1VtG7tqS08/giphy.gif" height="15px">
+### Thanks for visiting <img src="https://media.giphy.com/media/xT0GqkVV1VtG7tqS08/giphy.gif" height="15px">
 ![VisitorCount](https://profile-counter.glitch.me/JoanRojasMejia/count.svg)
 
 ⭐️ From [Joan Rojas Mejia](https://github.com/JoanRojasMejia)
