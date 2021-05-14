@@ -1,11 +1,11 @@
 ### Hi there <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="25px"> I'm [Joan Rojas Mejia](https://joan-rojas-mejia.netlify.app/)
 > <p><em>Frontend Developer.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-<img align='right' src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="240">
 
 <div>
   <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+I am junior-level Web developer able to build a Web presence from the ground up - from concept, layout and programming. Good at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
   </p>
@@ -35,7 +35,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
     <img align="left" alt="Joan Rojas | Facebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
   </a>
   <a href="https://www.instagram.com/joan_rojas_16/" target="_blank">
-    <img align="left" alt="Joan Rojas | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Joan Rojas | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" /
   </a>
   <a href="mailto:sebas.rojas.mejia@gmail.com" target="_blank">
     <img align="left" alt="Joan Rojas | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
