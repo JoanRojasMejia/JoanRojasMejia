@@ -11,8 +11,6 @@ I have excellent design & coding skills, as well as an ability to convert requir
   </p>
 </div>
 
-<br>
-
 ### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="22px">   Programming Languages
 
 | [<img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" alt="html" width="24">](https://es.wikipedia.org/wiki/HTML) | [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/76_Css3_logo_logos-512.png" alt="CSS" width="26">](https://developer.mozilla.org/es/docs/Web/CSS)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24">](https://lenguajejs.com/javascript/)  |  [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="26">](https://es.wikipedia.org/wiki/C%2B%2B) | [<img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="26">](https://www.python.org/) | [<img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" width="24">](https://www.java.com/es/)
