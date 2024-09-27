@@ -42,6 +42,7 @@ My tech stack includes NextJS, ReactJS, NodeJS, Golang, MongoDB, among other mod
     <img width="26px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
     <img width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
     <img width="30px" src="https://cdn.svgporn.com/logos/react.svg" />
+    <img width="30px" src="https://cdn.svgporn.com/logos/vue.svg" />
     <img width="21px" src="https://cdn.svgporn.com/logos/astro-icon.svg" />
     <img width="30px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" />
     <img width="37px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" />
